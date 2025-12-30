@@ -1,0 +1,32 @@
+[
+  {
+    "generic_name": "acetaminophen",
+    "brand_names": ["Tylenol"],
+    "uses": "Pain relief and fever reduction for mild to moderate pain such as headache, muscle aches, and menstrual cramps.",
+    "dosage": "Typical adult oral dose: 325-1000 mg every 4-6 hours as needed; do not exceed 4000 mg per day. Pediatric dosing depends on weight; consult a clinician.",
+    "warnings": "Liver injury risk increases with higher doses, alcohol use, or underlying liver disease. Check labels to avoid duplicate acetaminophen products.",
+    "side_effects": "Common: nausea, stomach upset. Rare: serious skin reactions.",
+    "sources": ["FDA Drug Facts Label", "MedlinePlus"],
+    "last_updated": "2024-06-01"
+  },
+  {
+    "generic_name": "ibuprofen",
+    "brand_names": ["Advil", "Motrin"],
+    "uses": "Nonsteroidal anti-inflammatory drug (NSAID) for pain, inflammation, and fever.",
+    "dosage": "Typical adult oral dose: 200-400 mg every 4-6 hours as needed; do not exceed 1200 mg per day OTC. Pediatric dosing depends on weight; consult a clinician.",
+    "warnings": "May increase risk of stomach bleeding, kidney issues, and cardiovascular events. Avoid combining with other NSAIDs. Take with food if stomach upset occurs.",
+    "side_effects": "Common: upset stomach, heartburn, dizziness. Serious: stomach bleeding, kidney issues, allergic reactions.",
+    "sources": ["FDA Drug Facts Label", "MedlinePlus"],
+    "last_updated": "2024-06-01"
+  },
+  {
+    "generic_name": "amoxicillin",
+    "brand_names": ["Amoxil"],
+    "uses": "Penicillin-class antibiotic for susceptible bacterial infections (e.g., ear, sinus, throat, lower respiratory, urinary tract).",
+    "dosage": "Typical adult oral dose varies by infection: 500 mg every 8 hours or 875 mg every 12 hours are common regimens; pediatric dosing based on weight and infection severity.",
+    "warnings": "May cause allergic reactions (including anaphylaxis) especially in patients with penicillin allergy. Overuse may lead to resistance; complete full course as prescribed.",
+    "side_effects": "Common: diarrhea, rash, nausea. Serious: severe allergic reactions, Clostridioides difficile-associated diarrhea.",
+    "sources": ["FDA Label", "Clinical Guidelines"],
+    "last_updated": "2024-06-01"
+  }
+]
